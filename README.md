@@ -1,6 +1,6 @@
 ## Olá eu sou Brayan Benet, entusiasta da área de tecnologia e testes de software!
 
-Atualmente sou analista de qualidade júnior na empresa DBC Company, atuando na empresa GOL Linha Aéreas.
+Atualmente sou analista de qualidade júnior na empresa DBC Company, atuando na empresa [Smiles Argentina](https://www.linkedin.com/company/smiles/).
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
